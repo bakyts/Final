@@ -6,7 +6,7 @@
 
 
 
-<!-- PROJECT LOGO --> https://global-uploads.webflow.com/5e157547d6f791d34ea4e2bf/6336fc5bc915769b7f4cfd60_Chronos-p-500.png
+<!-- PROJECT LOGO --> <img src = "https://global-uploads.webflow.com/5e157547d6f791d34ea4e2bf/6336fc5bc915769b7f4cfd60_Chronos-p-500.png" >
 <br />
 <div align="center">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
@@ -24,16 +24,13 @@
 
 ### Built With
 
+* <img src = "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript/cake.png">
+*
 
-* [![Next][Next.js]][Next-url]
-*[![Next][Next.html]][Next-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+<p align="right">(<a href="#readme-top">Next</a>)</p>
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+
 
 
 
@@ -42,7 +39,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Bakyt- [@your_twitter](https://twitter.com/your_username) - sbakyt654@gmail.com
+Bakyt- [@Gmail](sbakyt654@gmail.com) - sbakyt654@gmail.com
 
 Project Link: [https://github.com/bakyts/Final.git](https://github.com/bakyts/Final.git)
 
